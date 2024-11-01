@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Admin Ajax Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-23 11:24+0000\n"
+"PO-Revision-Date: 2017-06-23 11:24+0000\n"
+"Last-Translator: root <pablo.luaces@gmail.com>\n"
+"Language-Team: Dutch (Belgium)\n"
+"Language: nl-BE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: wp-admin-ajax-posts.php:36
+msgid "Ajax Save Enabled!"
+msgstr "Ajax Speichern Aktiviert!"
+
+#: wp-admin-ajax-posts.php:37 wp-admin-ajax-posts.php:47
+msgid "About"
+msgstr "Über"
+
+#: wp-admin-ajax-posts.php:56
+msgid "Hide"
+msgstr "Verstecken"
+
+#: inc/about-page.php:6
+msgid "About the plugin"
+msgstr "Über das Plugin"
+
+#: inc/about-page.php:8
+#, php-format
+msgid ""
+"This is a plugin built by Pablo Luaces. Visit %s to know more about me and "
+"my works."
+msgstr ""
+"Dies ist ein Plugin von Pablo Luaces gebaut. Besuchen Sie %s, um mehr über "
+"mich und meine Werke zu erfahren."
+
+#: inc/about-page.php:10
+msgid ""
+"It is known by all that Wordpress is very slow when introducing products or "
+"other posts types, since they always loads all the resources in each request "
+"to the server."
+msgstr ""
+"Es ist bekannt durch all das Wordpress ist sehr langsam bei der Einführung "
+"von Produkten oder anderen Posts-Typen, da sie immer lädt alle Ressourcen in "
+"jeder Anfrage an den Server."
+
+#: inc/about-page.php:12
+msgid ""
+"It also has the disadvantage that when saving a post reloads the page so we "
+"have to wait twice for add the next item."
+msgstr ""
+"Es hat auch den Nachteil, dass beim Speichern eines Beitrags die Seite neu "
+"geladen wird, also müssen wir zweimal warten, um das nächste Element "
+"hinzuzufügen."
+
+#: inc/about-page.php:14
+msgid ""
+"With this small plugin we solved the problem by saving all posts using Ajax. "
+"Enjoy it and share!"
+msgstr ""
+"Mit diesem kleinen Plugin haben wir das Problem gelöst, indem wir alle "
+"Beiträge mit Ajax speichern. Genießen Sie es und teilen Sie es!"
+
+#. Description of the plugin
+msgid ""
+"A plugin for fast post management on backend area. Works with all types, "
+"products included."
+msgstr ""
+"Ein Plugin für die schnelle Postverwaltung im Backendbereich. Arbeiten mit "
+"allen Arten, Woocommerce produkte eingeschlossen."

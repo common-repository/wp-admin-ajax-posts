@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Admin Ajax Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-23 11:23+0000\n"
+"PO-Revision-Date: 2017-06-23 11:23+0000\n"
+"Last-Translator: root <pablo.luaces@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it-IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: wp-admin-ajax-posts.php:36
+msgid "Ajax Save Enabled!"
+msgstr "Ajax abilitato salvato!"
+
+#: wp-admin-ajax-posts.php:37 wp-admin-ajax-posts.php:47
+msgid "About"
+msgstr "Circa di"
+
+#: wp-admin-ajax-posts.php:56
+msgid "Hide"
+msgstr "Occultare"
+
+#: inc/about-page.php:6
+msgid "About the plugin"
+msgstr "Informazioni sul plugin"
+
+#: inc/about-page.php:8
+#, php-format
+msgid ""
+"This is a plugin built by Pablo Luaces. Visit %s to know more about me and "
+"my works."
+msgstr ""
+"Questo è un plugin costruito da Pablo Luaces. Visita %s per saperne di più "
+"su di me e sulle mie opere."
+
+#: inc/about-page.php:10
+msgid ""
+"It is known by all that Wordpress is very slow when introducing products or "
+"other posts types, since they always loads all the resources in each request "
+"to the server."
+msgstr ""
+"È noto da tutti che Wordpress è molto lento quando introducono prodotti o "
+"altri tipi di post, poiché caricano sempre tutte le risorse di ciascuna "
+"richiesta al server."
+
+#: inc/about-page.php:12
+msgid ""
+"It also has the disadvantage that when saving a post reloads the page so we "
+"have to wait twice for add the next item."
+msgstr ""
+"Ha anche lo svantaggio che quando si salva un post ricarica la pagina in "
+"modo che dobbiamo attendere due volte per aggiungere l'elemento successivo."
+
+#: inc/about-page.php:14
+msgid ""
+"With this small plugin we solved the problem by saving all posts using Ajax. "
+"Enjoy it and share!"
+msgstr ""
+"Con questo piccolo plugin abbiamo risolto il problema salvando tutti i post "
+"utilizzando Ajax. Godetelo e condividerlo!"
+
+#. Description of the plugin
+msgid ""
+"A plugin for fast post management on backend area. Works with all types, "
+"products included."
+msgstr ""
+"Un plugin per la gestione veloce post su area backend. Funziona con tutti i "
+"tipi, i Woocommerce prodotti inclusi."

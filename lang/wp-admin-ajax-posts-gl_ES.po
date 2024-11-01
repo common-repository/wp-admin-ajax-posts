@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Admin Ajax Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-23 11:23+0000\n"
+"PO-Revision-Date: 2017-06-23 11:23+0000\n"
+"Last-Translator: root <pablo.luaces@gmail.com>\n"
+"Language-Team: Galician\n"
+"Language: gl-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: wp-admin-ajax-posts.php:36
+msgid "Ajax Save Enabled!"
+msgstr "Gardado máxico activo!"
+
+#: wp-admin-ajax-posts.php:37 wp-admin-ajax-posts.php:47
+msgid "About"
+msgstr "Sobre min"
+
+#: wp-admin-ajax-posts.php:56
+msgid "Hide"
+msgstr "De acordo"
+
+#: inc/about-page.php:6
+msgid "About the plugin"
+msgstr "Sobre o complemento"
+
+#: inc/about-page.php:8
+#, php-format
+msgid ""
+"This is a plugin built by Pablo Luaces. Visit %s to know more about me and "
+"my works."
+msgstr ""
+"Este é un complemento feito por Pablo Luaces. Visita %s pra saber máis sobre "
+"min e os meus traballos."
+
+#: inc/about-page.php:10
+msgid ""
+"It is known by all that Wordpress is very slow when introducing products or "
+"other posts types, since they always loads all the resources in each request "
+"to the server."
+msgstr ""
+"Como todos coñecemos Wordpress é moi lento a hora de introducir produtos ou "
+"outros tipos de publicacións, xa que sempre carga todos os recursos en cada "
+"solicitude ao servidor."
+
+#: inc/about-page.php:12
+msgid ""
+"It also has the disadvantage that when saving a post reloads the page so we "
+"have to wait twice for add the next item."
+msgstr ""
+"Tamén ten a desvantaxe de que ao gardar unha publicación recárgase a páxina "
+"polo que teremos que esperar dúas veces para engadir o seguinte elemento."
+
+#: inc/about-page.php:14
+msgid ""
+"With this small plugin we solved the problem by saving all posts using Ajax. "
+"Enjoy it and share!"
+msgstr ""
+"Con este pequeno complemento resolvemos o problema gardando todas as "
+"publicacións usando Ajax. ¡Goza e comparteo!"
+
+#. Description of the plugin
+msgid ""
+"A plugin for fast post management on backend area. Works with all types, "
+"products included."
+msgstr ""
+"Un plugin que che facilita a vida a hora de traballares no backend de "
+"Wordpress. Garda sen recargar a páxina calqueira tipo de publicación, mesmo "
+"os produtos de Woocommerce."

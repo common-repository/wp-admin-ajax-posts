@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Admin Ajax Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-23 11:24+0000\n"
+"PO-Revision-Date: 2017-06-23 11:24+0000\n"
+"Last-Translator: root <pablo.luaces@gmail.com>\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh-CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: wp-admin-ajax-posts.php:36
+msgid "Ajax Save Enabled!"
+msgstr "Ajax保存启用！"
+
+#: wp-admin-ajax-posts.php:37 wp-admin-ajax-posts.php:47
+msgid "About"
+msgstr "关于"
+
+#: wp-admin-ajax-posts.php:56
+msgid "Hide"
+msgstr "隐藏"
+
+#: inc/about-page.php:6
+msgid "About the plugin"
+msgstr "关于插件"
+
+#: inc/about-page.php:8
+#, php-format
+msgid ""
+"This is a plugin built by Pablo Luaces. Visit %s to know more about me and "
+"my works."
+msgstr "这是由Pablo Luaces建立的一个插件。 访问 ％s了解更多关于我和我的作品。"
+
+#: inc/about-page.php:10
+msgid ""
+"It is known by all that Wordpress is very slow when introducing products or "
+"other posts types, since they always loads all the resources in each request "
+"to the server."
+msgstr "众所周知，Wordpress在引入产品或其他帖子类型时速度非常慢，因为它们总是将每个请求中的所有资源加载到服务器。"
+
+#: inc/about-page.php:12
+msgid ""
+"It also has the disadvantage that when saving a post reloads the page so we "
+"have to wait twice for add the next item."
+msgstr "它也有缺点，即节省了后期的时候重新加载页面，所以我们必须等待两次添加下一个项目。"
+
+#: inc/about-page.php:14
+msgid ""
+"With this small plugin we solved the problem by saving all posts using Ajax. "
+"Enjoy it and share!"
+msgstr "使用这个小插件，我们通过使用Ajax保存所有帖子来解决问题。 享受它并分享吧！"
+
+#. Description of the plugin
+msgid ""
+"A plugin for fast post management on backend area. Works with all types, "
+"products included."
+msgstr "后端区域快速管理插件。 适用于所有类型，产品包括。"
